@@ -24,6 +24,6 @@ I am adding these comments for some citations of where I used various libraries 
 - This is a method I used, from the pandas library that converts nested JSON objects into a flat table. The flat table (dataframe) can be more easily used for data analysis. 
 - Citation: (https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html)
 
-### pyplot.annotate()
+#### pyplot.annotate()
 - This is a method I used for adding in annotations for specific data points on a visualization.
 - Citation: (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html)
